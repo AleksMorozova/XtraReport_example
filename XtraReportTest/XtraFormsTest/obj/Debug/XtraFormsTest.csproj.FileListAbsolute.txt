@@ -1,0 +1,11 @@
+D:\00_PROJECTS\XtraTest\XtraFormsTest\XtraFormsTest\bin\Debug\XtraFormsTest.exe.config
+D:\00_PROJECTS\XtraTest\XtraFormsTest\XtraFormsTest\bin\Debug\XtraFormsTest.exe
+D:\00_PROJECTS\XtraTest\XtraFormsTest\XtraFormsTest\bin\Debug\XtraFormsTest.pdb
+D:\00_PROJECTS\XtraTest\XtraFormsTest\XtraFormsTest\obj\Debug\XtraFormsTest.MainXtraForm.resources
+D:\00_PROJECTS\XtraTest\XtraFormsTest\XtraFormsTest\obj\Debug\XtraFormsTest.Properties.Resources.resources
+D:\00_PROJECTS\XtraTest\XtraFormsTest\XtraFormsTest\obj\Debug\XtraFormsTest.csproj.GenerateResource.Cache
+D:\00_PROJECTS\XtraTest\XtraFormsTest\XtraFormsTest\obj\Debug\XtraFormsTest.exe
+D:\00_PROJECTS\XtraTest\XtraFormsTest\XtraFormsTest\obj\Debug\XtraFormsTest.pdb
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\bin\Debug\XtraFormsTest.exe.config
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.exe
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.pdb

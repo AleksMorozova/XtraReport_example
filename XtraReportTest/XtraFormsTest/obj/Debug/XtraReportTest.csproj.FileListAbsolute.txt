@@ -1,0 +1,14 @@
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\bin\Debug\XtraFormsTest.exe.config
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\bin\Debug\XtraFormsTest.exe
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\bin\Debug\XtraFormsTest.pdb
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.Properties.Resources.resources
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraReportTest.csproj.GenerateResource.Cache
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.exe
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.pdb
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraReportTest.MainXtraForm.resources
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\bin\Debug\Person.mdf
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\bin\Debug\Person_log.ldf
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.XtraReportFirst.resources
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.exe.licenses
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.XtraReportSecond.resources
+D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraReportTest.csprojResolveAssemblyReference.cache
