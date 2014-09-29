@@ -31,7 +31,7 @@ namespace XtraFormsTest
                     LookUpEdit lookUpEdit = new LookUpEdit();
                     lookUpEdit.Properties.DataSource = dataSet.City;
                     lookUpEdit.Properties.DisplayMember = "name";
-                    lookUpEdit.Properties.ValueMember = "id";
+                    lookUpEdit.Properties.ValueMember = "name";
                     lookUpEdit.Properties.Columns.Add(new
                         LookUpColumnInfo("name", 0, "name"));
                     info.Editor = lookUpEdit;
