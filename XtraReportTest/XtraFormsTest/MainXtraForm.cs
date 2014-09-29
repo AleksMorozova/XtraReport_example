@@ -68,5 +68,14 @@ namespace XtraReportTest
             tool.ShowPreview();
 
         }
+
+        private void btnThirdReport_Click(object sender, EventArgs e)
+        {
+
+            XtraReport3 report = new XtraReport3();
+
+            ReportPrintTool tool = new ReportPrintTool(report);
+            tool.ShowPreview();
+        }
     }
 }

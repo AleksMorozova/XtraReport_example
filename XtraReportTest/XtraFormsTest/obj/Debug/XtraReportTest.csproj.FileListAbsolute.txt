@@ -12,3 +12,18 @@ D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.
 D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.exe.licenses
 D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.XtraReportSecond.resources
 D:\PrizmDemoProject\Report\XtraReportTest\XtraFormsTest\obj\Debug\XtraReportTest.csprojResolveAssemblyReference.cache
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\bin\Debug\XtraFormsTest.exe.config
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.exe
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.pdb
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\bin\Debug\Person.mdf
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\bin\Debug\Person_log.ldf
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\bin\Debug\XtraFormsTest.exe
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\bin\Debug\XtraFormsTest.pdb
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\obj\Debug\XtraReportTest.csprojResolveAssemblyReference.cache
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\obj\Debug\XtraReportTest.MainXtraForm.resources
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.Properties.Resources.resources
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.XtraReportFirst.resources
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.XtraReportSecond.resources
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.XtraReport3.resources
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\obj\Debug\XtraReportTest.csproj.GenerateResource.Cache
+C:\Users\omor\Desktop\report test\XtraReport_example\XtraReportTest\XtraFormsTest\obj\Debug\XtraFormsTest.exe.licenses

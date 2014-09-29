@@ -76,6 +76,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data.cs" />
+    <Compile Include="DataSetCity.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCity.xsd</DependentUpon>
+    </Compile>
     <Compile Include="DataSetPerson.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -101,6 +106,12 @@
     <Compile Include="XtraReport2.Designer.cs">
       <DependentUpon>XtraReport2.cs</DependentUpon>
     </Compile>
+    <Compile Include="XtraReport3.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XtraReport3.Designer.cs">
+      <DependentUpon>XtraReport3.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="MainXtraForm.resx">
       <DependentUpon>MainXtraForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -120,6 +131,20 @@
     <EmbeddedResource Include="XtraReport2.resx">
       <DependentUpon>XtraReport2.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="XtraReport3.resx">
+      <DependentUpon>XtraReport3.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSetCity.xsc">
+      <DependentUpon>DataSetCity.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCity.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCity.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetCity.xss">
+      <DependentUpon>DataSetCity.xsd</DependentUpon>
+    </None>
     <None Include="DataSetPerson.xsc">
       <DependentUpon>DataSetPerson.xsd</DependentUpon>
     </None>

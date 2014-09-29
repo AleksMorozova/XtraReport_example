@@ -31,6 +31,7 @@
             this.btnFirstReport = new DevExpress.XtraEditors.SimpleButton();
             this.btnSecondReport = new DevExpress.XtraEditors.SimpleButton();
             this.documentViewer = new DevExpress.XtraPrinting.Preview.DocumentViewer();
+            this.btnThirdReport = new DevExpress.XtraEditors.SimpleButton();
             this.SuspendLayout();
             // 
             // btnFirstReport
@@ -59,11 +60,21 @@
             this.documentViewer.Size = new System.Drawing.Size(519, 466);
             this.documentViewer.TabIndex = 0;
             // 
+            // btnThirdReport
+            // 
+            this.btnThirdReport.Location = new System.Drawing.Point(555, 105);
+            this.btnThirdReport.Name = "btnThirdReport";
+            this.btnThirdReport.Size = new System.Drawing.Size(89, 23);
+            this.btnThirdReport.TabIndex = 3;
+            this.btnThirdReport.Text = "Third Report";
+            this.btnThirdReport.Click += new System.EventHandler(this.btnThirdReport_Click);
+            // 
             // MainXtraForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(700, 468);
+            this.Controls.Add(this.btnThirdReport);
             this.Controls.Add(this.btnSecondReport);
             this.Controls.Add(this.btnFirstReport);
             this.Controls.Add(this.documentViewer);
@@ -78,5 +89,6 @@
         private DevExpress.XtraPrinting.Preview.DocumentViewer documentViewer;
         private DevExpress.XtraEditors.SimpleButton btnFirstReport;
         private DevExpress.XtraEditors.SimpleButton btnSecondReport;
+        private DevExpress.XtraEditors.SimpleButton btnThirdReport;
     }
 }
